@@ -354,6 +354,5 @@ Class UsefulStuff {
 			}
 		}
 		return FALSE;
-	}
-	
+	}	
 }
