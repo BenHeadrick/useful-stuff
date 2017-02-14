@@ -1,10 +1,9 @@
 <?php
 /**
- * Csv Library
+ * Useful Stuff Library
  *
  * 
  * @author	Ben Headrick
- * @license	http://opensource.org/licenses/MIT	MIT License
  * @link	http://benheadrick.com
  */
 
